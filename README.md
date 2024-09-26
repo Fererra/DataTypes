@@ -8,6 +8,8 @@ First, you need to install all the necessary dependencies. Open your terminal in
 npm install
 ```
 
+## Run the project
+
 After installing the dependencies, you can start the project by running the following command:
 
 ```bash
